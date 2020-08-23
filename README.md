@@ -8,6 +8,7 @@
 **Idioma:** Português-Brasil  
 
 
+![img](https://github.com/Combratec/safira_docs/blob/master/imagens/projeto.gif)
 
 ## Introdução a Safira
 - [Introdução](#Introdução)  
